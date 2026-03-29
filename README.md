@@ -1849,9 +1849,9 @@ boost_1_69_0/doc/html/boost/process/on_exit.html
 boost_1_69_0/doc/html/process/reference.html
 ```
 8. Скомпилирутйе *boost*. Можно воспользоваться [инструкцией](https://www.boost.org/doc/libs/1_61_0/more/getting_started/unix-variants.html#or-build-custom-binaries) или [ссылкой](https://codeyarns.com/2017/01/24/how-to-build-boost-on-linux/).
-```
+
 [Ссылка на gist](https://gist.github.com/dew-ls/79253fc0a02a3db9f5608e42ffbbea8a)
-```
+
 9. Перенесите все скомпилированные на предыдущем шаге статические библиотеки в директорию `~/boost-libs`.
 ```
 find boost_1_69_0 -name "*.a" -exec cp {} boost-libs \;
