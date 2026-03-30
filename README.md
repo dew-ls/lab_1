@@ -1850,7 +1850,9 @@ boost_1_69_0/doc/html/process/reference.html
 ```
 8. Скомпилирутйе *boost*. Можно воспользоваться [инструкцией](https://www.boost.org/doc/libs/1_61_0/more/getting_started/unix-variants.html#or-build-custom-binaries) или [ссылкой](https://codeyarns.com/2017/01/24/how-to-build-boost-on-linux/).
 
-[Ссылка на gist](https://gist.github.com/dew-ls/79253fc0a02a3db9f5608e42ffbbea8a)
+[Первая часть](https://gist.github.com/dew-ls/4575bba2f4ca07df957ed2146e7f5089)
+[Вторая часть](https://gist.github.com/dew-ls/df09d59fdaf27e53084c0998fc7808f5)
+[Третья часть](https://gist.github.com/dew-ls/e2fdebe792398682cd8456426ab79376)
 
 9. Перенесите все скомпилированные на предыдущем шаге статические библиотеки в директорию `~/boost-libs`.
 ```
